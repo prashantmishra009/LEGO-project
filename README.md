@@ -1,1 +1,1 @@
-# Lego-Project
+ This project brings a LEGO model to life by enabling it to change colors and facial expressions. Users can control these changes through a user-friendly interface, providing a fun and interactive experience.
